@@ -1,1 +1,19 @@
-
+[
+  {
+    "description": "Campeonato Inglês 2022",
+    "place": {
+      "name": "Wembley Stadium",
+      "image": "TODO"
+    },
+    "home_team": {
+      "name": "Chelsea",
+      "strenght": "4",
+      "image": "TODO"
+    }
+    "away_team": {
+      "name": "Arsenal",
+      "strenght": "4",
+      "image": "TODO"
+    }
+  }  
+]
