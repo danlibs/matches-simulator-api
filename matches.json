@@ -5,12 +5,12 @@
       "name": "Wembley Stadium",
       "image": "TODO"
     },
-    "home_team": {
+    "homeTeam": {
       "name": "Chelsea",
       "strenght": "4",
       "image": "https://upload.wikimedia.org/wikipedia/pt/c/cc/Chelsea_FC.svg"
-    }
-    "away_team": {
+    },
+    "awayTeam": {
       "name": "Arsenal",
       "strenght": "4",
       "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png"
