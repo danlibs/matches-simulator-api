@@ -8,12 +8,34 @@
     "homeTeam": {
       "name": "Barcelona",
       "strength": "5",
-      "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/FCBarcelona.svg/800px-FCBarcelona.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/FCBarcelona.svg/800px-FCBarcelona.svg.png",
+      "players": ["GOL - Marc-André ter Stegen", 
+                  "ZAG - Ronald Araujo", 
+                  "ZAG - Piqué", 
+                  "ZAG - Clément Lenglet", 
+                  "VOL - Sergio Busquets", 
+                  "MD  - Sergiño Dest",
+                  "MCD - Frenkie de Jong",
+                  "MCE - Pedri",
+                  "ME  - Jordi Alba",
+                  "ATD - Ousmane Dembélé",
+                  "ATE - Antoine Griezmann"]
     },
     "awayTeam": {
       "name": "Manchester United",
       "strength": "5",
-      "image": "https://upload.wikimedia.org/wikipedia/pt/b/b6/Manchester_United_FC_logo.png"
+      "image": "https://upload.wikimedia.org/wikipedia/pt/b/b6/Manchester_United_FC_logo.png",
+      "players": ["GOL - De Gea",
+                  "LD  - Diogo Dalot",
+                  "ZGD - Victor Lindelöf",
+                  "ZGE - Harry Maguire",
+                  "LE  - Alex Telles",
+                  "VLD - Scott McTominay",
+                  "VLE - Fred",
+                  "MED - Bruno Fernandes",
+                  "MEE - Jadon Sancho",
+                  "ATD - Cristiano Ronaldo",
+                  "ATE - Marcus Rashford"]
     }
   },
   {
@@ -25,12 +47,34 @@
     "homeTeam": {
       "name": "Chelsea",
       "strength": "5",
-      "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/cc/Chelsea_FC.svg/800px-Chelsea_FC.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/cc/Chelsea_FC.svg/800px-Chelsea_FC.svg.png",
+      "players": ["GOL - Najim Mendy",
+                  "ADD - Azpilicueta",
+                  "ZGD - Andreas Christensen",
+                  "ZAG - Thiago Silva",
+                  "ZGE - Antonio Rüdiger",
+                  "ADE - Marcos Alonso",
+                  "MCD - N'Golo Kanté",
+                  "MCE - Jorginho",
+                  "PD  - Mason Mount",
+                  "ATA - Romelu Lukaku",
+                  "PE  - Christian Pulisic"]
     },
     "awayTeam": {
       "name": "Bayern München",
       "strength": "5",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+      "players": ["GOL - Manuel Neuer",
+                  "LD  - Benjamin Pavard",
+                  "ZGD - Dayot Upamecano",
+                  "ZGE - Lucas Hernández",
+                  "LE  - Alphonso Davies",
+                  "VLD - Joshua Kimmich",
+                  "VLE - Leon Goretzka",
+                  "MD  - Serge Gnabry",
+                  "ME  - Leroy Sané",
+                  "MEI - Thomas Müller",
+                  "ATA - Robert Lewandowski"]
     }
   },  
   {
@@ -42,12 +86,34 @@
     "homeTeam": {
       "name": "Bayern München",
       "strength": "5",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+      "players": ["GOL - Manuel Neuer",
+                  "LD  - Benjamin Pavard",
+                  "ZGD - Dayot Upamecano",
+                  "ZGE - Lucas Hernández",
+                  "LE  - Alphonso Davies",
+                  "VLD - Joshua Kimmich",
+                  "VLE - Leon Goretzka",
+                  "MD  - Serge Gnabry",
+                  "ME  - Leroy Sané",
+                  "MEI - Thomas Müller",
+                  "ATA - Robert Lewandowski"]
     },
     "awayTeam": {
       "name": "Borussia Dortmund",
       "strength": "4",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/800px-Borussia_Dortmund_logo.svg.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/800px-Borussia_Dortmund_logo.svg.png",
+      "players": ["GOL - Gregor Kobel",
+                  "LD  - Thomas Meunier",
+                  "ZGD - Manuel Akanji",
+                  "ZGE - Mats Hummels",
+                  "LE  - Raphaël Guerreiro",
+                  "VOL - Axel Witsel",
+                  "MCD - Jude Bellingham",
+                  "MCE - Julian Brandt",
+                  "PD  - Thorgan Hazard",
+                  "ATA - Erling Haaland",
+                  "PE  - Marco Reus"]
     }
   }  
 ] 
