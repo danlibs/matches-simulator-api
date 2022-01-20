@@ -7,12 +7,12 @@
     },
     "homeTeam": {
       "name": "Chelsea",
-      "strenght": "4",
-      "image": "https://upload.wikimedia.org/wikipedia/pt/c/cc/Chelsea_FC.svg"
+      "strength": "4",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/cc/Chelsea_FC.svg/800px-Chelsea_FC.svg.png"
     },
     "awayTeam": {
       "name": "Arsenal",
-      "strenght": "4",
+      "strength": "4",
       "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png"
     }
   }  
